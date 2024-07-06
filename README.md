@@ -1,4 +1,17 @@
-# Chess Scandinavian
+# Chess Training
+
+For getting the colored arrows for move order (green, blue, orange):
+
+Chrome Extension: https://chromewebstore.google.com/detail/custom-css-by-denis/cemphncflepgmgfhcdegkbkekifodacd?hl=en
+
+```css
+.arrow:nth-child(1) {
+    fill: green !important;
+}
+.arrow:nth-child(2) {
+    fill: #2a62e1 !important;
+}
+```
 
 July 5
 
